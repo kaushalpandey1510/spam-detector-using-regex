@@ -87,4 +87,6 @@ Feel free to submit issues or pull requests to improve the spam detection patter
 
 ---
 
-🎉 Happy Coding!# spam-detector-using-regex
+🎉 Happy Coding!
+
+# spam-detector-using-regex
